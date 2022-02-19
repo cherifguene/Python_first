@@ -39,3 +39,4 @@ def Jeu(a):
 cisse=Joueur("zz")
 Jeu(cisse)
 Jeu(Joueur("Zeff"))
+Jeu(Joueur("Dim"))
